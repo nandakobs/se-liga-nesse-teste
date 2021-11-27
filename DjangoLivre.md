@@ -54,7 +54,7 @@ Adicione comandos de execução e exemplos que você acha que os usuários achar
 
 O team DjangoLivre é composto por:
 
-| [![Foto da Fernanda Kobs no GitHub](https://avatars.githubusercontent.com/u/75281337?v=4) ****Fernanda Kobs](https://github.com/nandakobs) | [![Foto da Lorena Mattos](https://avatars.githubusercontent.com/u/91705201?v=4) ****Lorena Mattos](https://github.com/Lorena-Mattos) | [![Foto da Marcelle Macêdo](https://avatars.githubusercontent.com/u/92064165?v=4) ****Marcelle Macêdo](https://github.com/marcellemacedo) |
+| [![Foto da Fernanda Kobs no GitHub](https://avatars.githubusercontent.com/u/75281337?v=4) Fernanda Kobs](https://github.com/nandakobs) | [![Foto da Lorena Mattos](https://avatars.githubusercontent.com/u/91705201?v=4) ****Lorena Mattos](https://github.com/Lorena-Mattos) | [![Foto da Marcelle Macêdo](https://avatars.githubusercontent.com/u/92064165?v=4) ****Marcelle Macêdo](https://github.com/marcellemacedo) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![Foto da Madu no GitHub](https://avatars.githubusercontent.com/u/92064165?v=4) ****Madu](https://github.com/Lorena-Mattos/DjangoLivre) | [![Foto da Patrícia Maria de Souza no GitHub](https://avatars.githubusercontent.com/u/41968938?v=4) ****Patrícia Maria de Souza](https://github.com/patyfil) | [![Foto da Yasmin Carolina no GitHub](https://avatars.githubusercontent.com/u/91809784?v=4) ****Yasmin Carolina](https://github.com/yasmincarolina) |
 
